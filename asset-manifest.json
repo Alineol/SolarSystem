@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Alineol/SolarSystem/static/css/main.9eb8f0a2.css",
+    "main.js": "/Alineol/SolarSystem/static/js/main.93b0ac64.js",
+    "static/js/787.d96af89e.chunk.js": "/Alineol/SolarSystem/static/js/787.d96af89e.chunk.js",
+    "static/media/Mercurio.png": "/Alineol/SolarSystem/static/media/Mercurio.a7105a56cdf707dc3cce.png",
+    "static/media/Terra.png": "/Alineol/SolarSystem/static/media/Terra.990ac782d3b62d230d28.png",
+    "static/media/Venus.png": "/Alineol/SolarSystem/static/media/Venus.397fdee264550fe0d0d1.png",
+    "static/media/Marte.png": "/Alineol/SolarSystem/static/media/Marte.6cae79d3ef1a90069610.png",
+    "static/media/Jupiter.png": "/Alineol/SolarSystem/static/media/Jupiter.529cdbe0cad25f29f533.png",
+    "static/media/Netuno.png": "/Alineol/SolarSystem/static/media/Netuno.48cf14b71b63a23d6f8a.png",
+    "static/media/Saturno.png": "/Alineol/SolarSystem/static/media/Saturno.00b7295f54e9af9bbe90.png",
+    "static/media/blackgalaxia.jpg": "/Alineol/SolarSystem/static/media/blackgalaxia.67c23bf92fa3d8c21607.jpg",
+    "static/media/Urano.png": "/Alineol/SolarSystem/static/media/Urano.607cb33ce7cb511e3d9c.png",
+    "index.html": "/Alineol/SolarSystem/index.html",
+    "main.9eb8f0a2.css.map": "/Alineol/SolarSystem/static/css/main.9eb8f0a2.css.map",
+    "main.93b0ac64.js.map": "/Alineol/SolarSystem/static/js/main.93b0ac64.js.map",
+    "787.d96af89e.chunk.js.map": "/Alineol/SolarSystem/static/js/787.d96af89e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9eb8f0a2.css",
+    "static/js/main.93b0ac64.js"
+  ]
+}
