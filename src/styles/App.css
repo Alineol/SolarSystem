@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700;900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-image: url('../blackgalaxia.jpg');
+  background-size: contain;
+  background-attachment: fixed;
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.1rem;
+}
+
+#root {
+  padding: 20px;
+  margin: auto;
+}
+
+section {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+/* Header */
+header {
+  margin: auto;
+  font-size: 1.5rem;
+  padding: 5px 10px;
+  width: 80%;
+  background-image: radial-gradient(circle farthest-corner at 100% 0, #f09c33 0%, #f59234 4%, #f98736 7%, #fd7b38 10%, #ff6e3c 14%, #ff5f41 18%, #ff4e46 21%, #ff384b 25%, #fd1851 29%, #f90059 32%, #f50062 36%, #f0006c 39%, #e90077 43%, #e10083 46%, #d70090 50%, #4e42d4 75%, #4e42d4 100%);
+  text-align: center;
+  border-radius: 10px;
+}
+
+h1 {
+  color: #f3efef;
+}
+
+/* Solar System */
+.solar-system {
+  color: white;
+  margin: 50px auto;
+}
+
+.solar-system h2 {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.solar-system .planets {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 0;
+  margin-top: 30px;
+}
+
+.solar-system .planet {
+  background-color: #001290;
+  padding: 10px;
+  border-radius: 10px;
+  width: 100%;
+  text-align: center;
+  font-weight: 500;
+}
+
+.solar-system .planet {
+  max-width: fit-content;
+}
+
+.solar-system .planet:hover {
+  width: 800px;
+}
+
+.solar-system .planet img {
+  max-width: 150px;
+  transition: transform 0.2s;
+}
+
+.solar-system .planet img:hover {
+  transform: scale(1.1);
+}
+
+.solar-system .planet p {
+  margin-bottom: 10px;
+  text-transform: uppercase;
+}
+
+/* Missions */
+.missions {
+  color: white;
+  margin: 50px auto;
+}
+
+.missions h2 {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.missions .missions-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 0;
+  margin-top: 30px;
+}
+
+.missions .missions-section .mission {
+  width: 100%;
+  padding: 10px;
+  margin: 0 auto;
+  max-width: 300px;
+  border: 1px solid #001290;
+  background-color: rgba(255, 255, 255, 0.05);
+  border-radius: 10px;
+  transition: transform 0.2s;
+}
+
+.missions .missions-section .mission:hover {
+  transform: scale(1.05);
+}
+
+.missions .missions-section.mission h2 {
+  text-align: left;
+  color: #4e42d4;
+  margin-bottom: 10px;
+}
