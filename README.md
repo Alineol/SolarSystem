@@ -20,6 +20,9 @@ Fazer uso de PropTypes para validar as props de um componente
 
 <img src="https://github.com/Alineol/SolarSystem/blob/main/Captura%20de%20tela%20de%202022-01-26%2011-31-59.png" width="400"/>
 
+**Resultado:**
+https://alineol.github.io/SolarSystem/
+
 ### Requisitos obrigatórios:
 1. Crie um componente chamado Header
 2. Crie um componente chamado SolarSystem
